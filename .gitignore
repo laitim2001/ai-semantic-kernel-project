@@ -174,7 +174,7 @@ htmlcov/
 .ipynb_checkpoints
 
 # n8n-analysis (reference material, not part of main project)
-n8n-analysis/
+# n8n-analysis/
 
 # Claude docs (temporary analysis)
-claudedocs/
+# claudedocs/
